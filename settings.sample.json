@@ -1,0 +1,8 @@
+{
+  "SlackURL": "Slack url here",
+  "SlackKey": "Slack key here",
+  "public" : {
+       "PortalTitle": "Colombia.dev Magazine",
+       "SendDmMessage": "To add the URL follow the next link: "
+   }
+}

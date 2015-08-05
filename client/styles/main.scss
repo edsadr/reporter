@@ -1,0 +1,38 @@
+/* CSS declarations go here */
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,500);
+@import url(http://cdn.linearicons.com/free/1.0.0/icon-font.min.css);
+
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+.centered{
+  margin: auto;
+  text-align: center;
+}
+
+.spacer{
+  margin-bottom: 20px;
+}
+
+.card-image{
+  max-width: 96%;
+  max-height: 300px;
+}
+
+.card-text{
+  text-align: center;
+
+  a{
+    display: inline-block;
+    padding: 5px;
+    color: #00BCD4;
+    margin-top: 40px;
+    font-size: 140%;
+    text-decoration: none;
+
+    &:hover{
+      text-decoration: underline;
+    }
+  }
+}
